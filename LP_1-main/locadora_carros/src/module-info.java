@@ -1,0 +1,2 @@
+module locadora_carros {
+}
